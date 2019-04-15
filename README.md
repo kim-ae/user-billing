@@ -1,0 +1,2 @@
+# Reactive rabbitmq test case
+This test case has the goal to teach and show the main benefits of using message broker rabbitmq with amqp and the protocol STOMP to achieve reactive comunication with frontend client browser.
